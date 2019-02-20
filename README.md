@@ -12,10 +12,11 @@ Para melhor organizar nossos posts sugerimos a seguinte estrutura de arquivos pa
 
 ```bash
 ./
-|--- <titulo_post>/
-	|--- <README.md>
-	|--- <sample_code_folder>/
-		|--- <code_files>
+|--- <area>
+	|--- <titulo_post>/
+		|--- <README.md>
+		|--- <sample_code_folder>/
+			|--- <code_files>
 ```
 
 O seu `README.md` poder conter um rascunho do seu post, apenas uma introdução sobre o post, um link para arquivo na nuvem, etc. Use ele para facilitar o peer-review do seu post antes de publicá-lo.
